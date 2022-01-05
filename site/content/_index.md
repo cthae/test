@@ -7,8 +7,8 @@ blurb:
     text: "I find elegant solutions to complex problems. Whether in the realm of analytics tracking and reporting or in the realm of team leading, documentation and setting up proper business processes."
 blurb1:
     heading: "How?"
-    text: "Using best practices under a thick layer of common sense, sprinkled with generous professional communities support such as Measure, Liberta IRC and Stack Overflow" <a href='/'>test</a>
+    text: "Using best practices under a thick layer of common sense, sprinkled with generous professional communities support such as Measure, Liberta IRC and Stack Overflow"
 blurb:
     heading: "TEST"
-    text: "TEST" <a href='/'>test</a>
+    text: "TEST"
 ---
