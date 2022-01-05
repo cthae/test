@@ -8,4 +8,7 @@ blurb:
 blurb1:
     heading: "How?"
     text: "Using best practices under a thick layer of common sense, sprinkled with generous professional communities support such as Measure, Liberta IRC and Stack Overflow" <a href='/'>test</a>
+blurb:
+    heading: "TEST"
+    text: "TEST" <a href='/'>test</a>
 ---
