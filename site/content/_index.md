@@ -10,5 +10,5 @@ blurb1:
     text: "Using best practices under a thick layer of common sense, sprinkled with generous professional communities support such as Measure, Liberta IRC and Stack Overflow"
 blurb2:
     heading: "TEST"
-    text: "TEST"
+    text: TEST
 ---
